@@ -1,6 +1,6 @@
 {
   "pack": {
-    "description": "getplayerheads resources",
+    "description": "dropplayerheads resources",
     "pack_format": 15,
     "forge:server_data_pack_format": 12
   }

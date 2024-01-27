@@ -19,7 +19,7 @@ import net.minecraftforge.server.ServerLifecycleHooks;
 public class GetPlayerHeads
 {
 
-    public static final String MODID = "getplayerheads";
+    public static final String MODID = "dropplayerheads";
 
     public GetPlayerHeads()
     {
